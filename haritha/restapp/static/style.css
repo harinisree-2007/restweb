@@ -1,5 +1,5 @@
 body{
-    background-image:url(download.jpg);
+    background-image:url(download.avif);
     background-size:cover;
     background-position:center;
     color:white;
@@ -119,3 +119,4 @@ footer{
     bottom:0;
     width:100%;
 }
+
